@@ -3,10 +3,6 @@ This is a bookstore application in javafx. There are 3 user levels: Admin, Manag
 Admin has access to the books,statistics and to all the other users data. They can add and remove other users from the system.
 Manager has access to books and statistics.
 Librarian can only access the books.
-
-Majort things to be done : 
-            -More graphs in the statistcs
-            -Books section and its DB data insertion must be improved
           
 ![image](https://github.com/AlvinKollcaku/BookStore/assets/142890850/79b8bf2a-20cf-4c18-97be-4a9667b3d8ff)
 

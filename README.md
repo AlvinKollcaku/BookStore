@@ -1,4 +1,4 @@
-﻿# BookStore (Not finished)
+﻿# BookStore 
 This is a bookstore application in javafx. There are 3 user levels: Admin, Manager, Librarian.
 Admin has access to the books,statistics and to all the other users data. They can add and remove other users from the system.
 Manager has access to books and statistics.
